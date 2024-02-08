@@ -1,0 +1,16 @@
+package constants
+
+const PRODUCT_NOT_FOUND = "Product not found"
+const PRODUCT_DELETED = "Product deleted successfully"
+const PRODUCT_UPDATED = "Product updated successfully"
+const PRODUCT_ADDED = "Product added successfully"
+const PRODUCT_INSERT_ERROR = "Error while inserting product"
+const PRODUCT_DELETE_ERROR = "Error while deleting product"
+const PRODUCT_UPDATE_ERROR = "Error while updating product"
+const PRODUCT_SCAN_ERROR = "Error while scanning product"
+const PRODUCT_FOUND = "Product found successfully"
+const PRODUCTS_FOUND = "Products found successfully"
+const PRODUCTS_NOT_FOUND = "Any products not found"
+const ERROR_WHILE_FETCHING_PRODUCTS = "Error while fetching products"
+const ERROR_WHILE_QUERYING_PRODUCTS = "Error while querying products"
+const ERROR_WHILE_SCANNING_PRODUCTS = "Error while scanning products"
